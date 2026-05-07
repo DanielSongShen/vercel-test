@@ -17,3 +17,5 @@ venv/
 *.json.key
 *-sa-key.json
 .env.local
+.vercel
+.env*.local
