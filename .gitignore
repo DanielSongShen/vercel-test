@@ -1,8 +1,8 @@
 # Node / Next.js
-frontend/node_modules/
-frontend/.next/
-frontend/out/
-frontend/.env*.local
+src/frontend/node_modules/
+src/frontend/.next/
+src/frontend/out/
+src/frontend/.env*.local
 
 # Python
 __pycache__/
